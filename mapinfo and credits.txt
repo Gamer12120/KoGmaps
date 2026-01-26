@@ -844,6 +844,7 @@ Shyzo4TheCrew             | Insane     | 36     | Shyzo                     | 20
 Shyzo4TS                  | Insane     | 40     | Shyzo                     | 2018-09-01     
 ShyzoEZ-1                 | Easy       | 3      | Shyzo                     | 2017-07-08     
 Silently                  | Main       | 10     | Rw                        | 2025-06-27     
+Silhouette                | Insane     | 32     | FJP                       | 2026-01-25     
 Simplistic                | Hard       | 18     | Thermiq                   | 2023-05-22     
 Simplistic2               | Hard       | 18     | Thermiq                   | 2023-10-30     
 Simply_Nine               | Hard       | 25     | Themix                    | Released during a sunset
