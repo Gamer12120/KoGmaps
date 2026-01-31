@@ -333,6 +333,7 @@ FlipChillerDestin         | Main       | 13     | FlipLipp, ChillerDragon & Dest
 FlipDragonYo              | Main       | 16     | FlipLipp, Yo & ChillerDragon | Released during a sunset
 FlipFeat                  | Main       | 13     | FlipLipp                  | 2018-10-07     
 Flipfeat2                 | Insane     | 40     | FlipLipp, Feat            | 2022-11-21     
+FlipFeat3                 | Insane     | 47     | FlipLipp, feat            | 2026-01-31     
 FlipGores                 | Main       | 6      | FlipLipp                  | 2019-03-16     
 FlipGores2                | Main       | 11     | FlipLipp                  | 2023-08-01     
 FlipHoffi                 | Main       | 8      | FlipLipp & HoffiPL        | Released during a sunset
