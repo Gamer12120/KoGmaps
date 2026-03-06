@@ -1049,3 +1049,7 @@ ZTOY                      | Main       | ★★★        | 11     | Tyrone     
 Zubr                      | Insane     | ★★★        | 42     | Mixi                      | 2021-07-06     
 ZZZ                       | Hard       | ★★☆        | 21     | Zonsa                     | 2020-07-05     
 zzzz                      | Hard       | ★★☆        | 42     | Zonsa                     | 2023-05-16     
+Emerald_of_Gores          | Solo       | ★★★        | 14     | alya?                     | 2026-03-03     
+azra                      | Hard       | ★☆☆        | 14     | Arylz                     | 2026-03-03     
+Dystopia                  | Main       | ★★★        | 11     | Afterbjörn, FJP           | 2026-02-22     
+Mimi                      | Extreme    | ★★☆        | 80     | Milaseq_, Mixi            | 2026-02-22     
