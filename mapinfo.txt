@@ -470,6 +470,7 @@ Hoarfrost2                | Insane     | ★★★        | 47     | L        | 
 Hoarfrost_twisted         | Others     | ★★★        | 0      | -        | mind                      | 2024-12-14
 Honeycomb                 | Hard       | ★★☆        | 29     | XL       | Route66                   | 2022-05-06
 Hooksy                    | Hard       | ★★★        | 22     | S        | ZXC¿Girl?                 | 2025-09-29
+HQ-Race                   | Others     | ★☆☆        | 1      | XXS      | QshaR                     | Released during a sunset
 humik                     | Hard       | ★★☆        | 21     | M        | humik                     | 2023-09-20
 Humik4Alea                | Main       | ★★☆        | 8      | S        | humik                     | 2022-02-11
 i_need_mushroom_girl      | Hard       | ★★☆        | 21     | M        | ZXC¿Girl?                 | 2025-10-12
