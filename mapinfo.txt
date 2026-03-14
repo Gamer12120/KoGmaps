@@ -390,6 +390,7 @@ fokkonaut                 | Main       | ★★★        | 13     | M        | 
 FortCrispy                | Hard       | ★★☆        | 18     | S        | Crispy                    | 2023-10-02
 FreedomDive               | Insane     | ★☆☆        | 35     | L        | Afterbjörn                | 2024-06-02
 FreeMazanitax             | Insane     | ★☆☆        | 30     | M        | Colo-Colo                 | 2023-08-27
+FridayThe13th             | Solo       | ★☆☆☆☆      | 3      | -        | ejjie                     | 2026-02-13
 Frostgale_Canyon          | Extreme    | ★☆☆        | 61     | XL       | mrs.                      | 2023-12-22
 Frosty                    | Hard       | ★☆☆        | 14     | S        | purrp T                   | 2021-02-12
 Frosty_twisted            | Others     | ★★★        | 0      | -        | Unknown                   | 2024-11-30
@@ -419,6 +420,7 @@ goryx                     | Hard       | ★★★        | 29     | L        | 
 GoWindy1                  | Insane     | ★☆☆        | 30     | M        | Windy                     | 2022-09-05
 Gradzes                   | Hard       | ★☆☆        | 14     | S        | sasha34827                | 2025-06-18
 Granulos_De_Roca          | Insane     | ★★☆        | 32     | S        | Zonsa                     | 2020-07-21
+Grassless                 | Hard       | ★★★        | 22     | S        | Minem                     | 2026-02-16
 Grassy_Lands              | Hard       | ★★★        | 41     | XXL      | Canarda                   | 2025-09-23
 Grayscale                 | Hard       | ★★★        | 22     | S        | Thermiq                   | 2023-12-31
 GreeniRedFight            | Main       | ★★★        | 8      | XS       | Greeni, RedFight          | Released during a sunset
