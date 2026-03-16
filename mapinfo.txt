@@ -940,6 +940,7 @@ The_End                   | Extreme    | ★★★        | 58     | S        | 
 The_Ghost_Train           | Hard       | ★★★        | 41     | XXL      | Beautemps, Krumplee, BoWser, Brokecdx-, FlipLipp | 2022-10-29
 The_Price                 | Insane     | ★☆☆        | 30     | M        | Twisted                   | 2025-10-26
 The_Pyra                  | Main       | ★★★        | 13     | M        | RaiNy                     | 2017-01-25
+The_Tower                 | Solo       | ★★★★★      | 44     | -        | SlyDzE                    | 2026-03-15
 TheCube                   | Hard       | ★★★        | 29     | L        | SlyDzE                    | 2020-12-11
 TheDarkJungle             | Others     | ★☆☆        | 1      | -        | Warlord                   | 2018-05-08
 TheForest                 | Main       | ★★★        | 13     | M        | Oмezurion                 | 2021-01-19
