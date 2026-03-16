@@ -988,6 +988,7 @@ UnKnown4vED               | Insane     | ★☆☆        | 27     | S        | 
 UnlockTeam                | Mod        | ★★★★☆      | 22     | -        | coany                     | 2021-05-16
 Untilted                  | Insane     | ★★★        | 38     | S        | Milaseq_                  | 2025-12-27
 urskog                    | Hard       | ★☆☆        | 16     | M        | New_Hero                  | 2023-05-13
+USA                       | Hard       | ★★☆        | 18     | S        | Canarda                   | 2026-03-16
 VampEz1                   | Easy       | ★★☆        | 2      | XXS      | Vampyrali                 | 2017-08-26
 Vampyrali2                | Main       | ★★☆        | 8      | S        | Vampyrali                 | Released during a sunset
 Vampyrali3                | Main       | ★★☆        | 8      | S        | Vampyrali                 | Released during a sunset
@@ -1052,6 +1053,7 @@ YusloCkis1                | Insane     | ★★☆        | 36     | M        | 
 za1e                      | Hard       | ★☆☆        | 16     | M        | zale                      | 2020-03-14
 zale4blim                 | Hard       | ★★★        | 25     | M        | zale                      | 2020-07-28
 zale4coany                | Hard       | ★☆☆        | 14     | S        | Zale                      | 2023-11-17
+Zen                       | Solo       | ★★☆☆☆      | 6      | -        | FJP                       | 2026-03-16
 Zentarus                  | Insane     | ★★☆        | 36     | M        | ρнιʐyxxx                  | 2025-11-18
 ZeroKani4JuKKi            | Insane     | ★★★        | 47     | L        | Krumplee, TheSunSan       | 2025-10-12
 ZeroSeven                 | Main       | ★☆☆        | 6      | S        | KOF                       | 2022-04-29
