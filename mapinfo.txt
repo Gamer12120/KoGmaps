@@ -939,6 +939,7 @@ Terston7                  | Main       | ★★★        | 13     | M        | 
 Terston8                  | Main       | ★★★        | 13     | M        | Terston                   | 2025-09-07
 TerstonBzw                | Hard       | ★☆☆        | 16     | M        | Terston, bzw              | 2019-12-19
 The_Cube_2                | Insane     | ★★★        | 47     | L        | SlyDzE                    | 2022-11-15
+The_Crack                 | Event      | ★★★        | 0      | XXS      | FJP                       | 2026-04-01
 The_End                   | Extreme    | ★★★        | 58     | S        | Mixi                      | 2024-01-24
 The_Ghost_Train           | Hard       | ★★★        | 41     | XXL      | Beautemps, Krumplee, BoWser, Brokecdx-, FlipLipp | 2022-10-29
 The_Price                 | Insane     | ★☆☆        | 30     | M        | Twisted                   | 2025-10-26
