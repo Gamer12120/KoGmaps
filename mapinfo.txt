@@ -394,6 +394,7 @@ Fly_to_the_Mix            | Solo       | ★★★★★      | 44     | -      
 fokcores                  | Hard       | ★★★        | 25     | M        | fokkonaut, Cor            | 2020-05-22
 fokkonaut                 | Main       | ★★★        | 13     | M        | fokkonaut                 | 2017-02-20
 FortCrispy                | Hard       | ★★☆        | 18     | S        | Crispy                    | 2023-10-02
+Framemogged               | Extreme    | ★☆☆        | 44     | S        | CeyCen                    | 2026-04-14
 FreedomDive               | Insane     | ★☆☆        | 35     | L        | Afterbjörn                | 2024-06-02
 FreeMazanitax             | Insane     | ★☆☆        | 30     | M        | Colo-Colo                 | 2023-08-27
 FridayThe13th             | Solo       | ★☆☆☆☆      | 3      | -        | ejjie                     | 2026-02-13
@@ -522,6 +523,7 @@ Just_Team1                | Main       | ★★☆        | 12     | L        | 
 Just_TeE3                 | Main       | ★★☆        | 6      | XS       | Just_TeE3                 | Released during a sunset
 JustCommunity             | Insane     | ★☆☆        | 48     | XXL      | Mixi, Szymon              | 2021-07-27
 justfeat                  | Insane     | ★☆☆        | 30     | M        | feat                      | 2021-06-25
+Justice                   | Easy       | ★★★        | 3      | XXS      | Afterbjörn                | 2026-04-21
 JustTeE4JustNoob          | Hard       | ★★☆        | 21     | M        | Just_TeE                  | 2016-11-26
 kakdela                   | Insane     | ★☆☆        | 27     | S        | ejjie                     | 2025-09-29
 Kaston                    | Insane     | ★☆☆        | 30     | M        | ZXC¿Girl?, Twisted        | 2025-08-17
@@ -939,8 +941,8 @@ Terston6                  | Hard       | ★☆☆        | 14     | S        | 
 Terston7                  | Main       | ★★★        | 13     | M        | Terston                   | 2022-07-08
 Terston8                  | Main       | ★★★        | 13     | M        | Terston                   | 2025-09-07
 TerstonBzw                | Hard       | ★☆☆        | 16     | M        | Terston, bzw              | 2019-12-19
-The_Cube_2                | Insane     | ★★★        | 47     | L        | SlyDzE                    | 2022-11-15
 The_Crack                 | Mod        | ★★★☆☆      | 0      | -        | FJP                       | 2026-04-01
+The_Cube_2                | Insane     | ★★★        | 47     | L        | SlyDzE                    | 2022-11-15
 The_End                   | Extreme    | ★★★        | 58     | S        | Mixi                      | 2024-01-24
 The_Ghost_Train           | Hard       | ★★★        | 41     | XXL      | Beautemps, Krumplee, BoWser, Brokecdx-, FlipLipp | 2022-10-29
 The_Price                 | Insane     | ★☆☆        | 30     | M        | Twisted                   | 2025-10-26
