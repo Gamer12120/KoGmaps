@@ -304,6 +304,7 @@ EvilSunset                | Insane     | ★★☆        | 36     | M        | 
 Exorcism                  | Insane     | ★☆☆        | 30     | M        | Krumplee                  | 2020-02-12
 ExTr3                     | Hard       | ★★☆        | 21     | M        | Tr3agle, ExMonarch        | 2023-06-16
 F1                        | Insane     | ★☆☆        | 23     | XS       | ρнιʐyxxx                  | 2025-12-26
+F2                        | Insane     | ★★☆        | 36     | L        | ρнιʐyxxx                  | 2026-05-05
 FalltimeSunset            | Hard       | ★★★        | 22     | S        | purrpT                    | 2020-03-22
 Fearless                  | Main       | ★★☆        | 8      | S        | Afterbjörn                | 2024-11-10
 feat4flip                 | Hard       | ★★★        | 25     | M        | feat                      | 2019-12-12
