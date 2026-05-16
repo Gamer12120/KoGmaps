@@ -643,6 +643,7 @@ MqxTnul                   | Insane     | ★☆☆        | 35     | L        | 
 mrs_motivation            | Mod        | ★★★★★      | 32     | -        | mrs.                      | 2023-02-11
 MTr                       | Hard       | ★★★        | 25     | M        | Waguriッ                   | 2022-11-24
 Muay_Thai                 | Insane     | ★☆☆        | 27     | S        | Knuski                    | 2021-11-01
+Munchy                    | Main       | ★★★        | 8      | XS       | CeyCen                    | 2026-05-11
 MyStery                   | Main       | ★★☆        | 6      | XS       | Mystery Fox               | Released during a sunset
 N4B                       | Hard       | ★★☆        | 18     | S        | Nightmare                 | 2018-10-06
 N4D                       | Insane     | ★☆☆        | 41     | XL       | Nightmare                 | 2018-11-01
