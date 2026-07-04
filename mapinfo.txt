@@ -1084,3 +1084,10 @@ ZTOY                      | Main       | ★★★        | 11     | S        | 
 Zubr                      | Insane     | ★★★        | 42     | M        | Mixi                      | 2021-07-06
 ZZZ                       | Hard       | ★★☆        | 21     | M        | Zonsa                     | 2020-07-05
 zzzz                      | Hard       | ★★☆        | 42     | XXXL     | Zonsa                     | 2023-05-16
+Nytherial                 | Insane     | ★★★        | 38     | S        | johny tailor              | 2026-06-29
+Anima_Immortalis          | Extreme    | ★★★        | 127    | WTF      | Mixi                      | 2026-07-04
+Gundeon_2                 | Extreme    | ★★★        | 88     | XXL      | Themix                    | 2026-07-04
+KrumpleeWorld             | Extreme    | ★★★        | 88     | XXL      | Krumplee                  | 2026-07-04
+PEAK                      | Extreme    | ★☆☆        | 54     | L        | Afterbjörn                | 2026-06-21
+THEMINEMIX                | Extreme    | ★★☆        | 80     | XXL      | Minem, Themix             | 2026-06-14
+Summer_Splash             | Solo       | ★★★☆☆      | 18     | -        | FJP                       | 2026-06-27
