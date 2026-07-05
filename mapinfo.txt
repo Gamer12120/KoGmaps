@@ -1091,3 +1091,4 @@ KrumpleeWorld             | Extreme    | ★★★        | 88     | XXL      | 
 PEAK                      | Extreme    | ★☆☆        | 54     | L        | Afterbjörn                | 2026-06-21
 THEMINEMIX                | Extreme    | ★★☆        | 80     | XXL      | Minem, Themix             | 2026-06-14
 Summer_Splash             | Solo       | ★★★☆☆      | 18     | -        | FJP                       | 2026-06-27
+Nyxol                     | Insane     | ★★★        | 42     | M        | xewoiy                    | 2026-07-05
