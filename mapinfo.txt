@@ -1092,3 +1092,5 @@ PEAK                      | Extreme    | ★☆☆        | 54     | L        | 
 THEMINEMIX                | Extreme    | ★★☆        | 80     | XXL      | Minem, Themix             | 2026-06-14
 Summer_Splash             | Solo       | ★★★☆☆      | 18     | -        | FJP                       | 2026-06-27
 Nyxol                     | Insane     | ★★★        | 42     | M        | xewoiy                    | 2026-07-05
+Pumpl                     | Main       | ★★☆        | 8      | S        | sasha34827, mateko        | 2026-07-19
+Rectillinear              | Hard       | ★★★        | 22     | S        | LingMu                    | 2026-07-12
